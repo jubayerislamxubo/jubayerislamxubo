@@ -1,30 +1,42 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mehedi-Animated/3d-banner/main/dev-3d.gif" width="600px" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi ✋, I'm md jubayer</h1>
+# Hi 👋, I'm Md Jubayer
+### 💻 Web Developer | Frontend Enthusiast
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Building+Responsive+Websites;Learning+Modern+Web+Tech" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6EC7,4ADE80,38B2AC&center=true&vCenter=true&width=650&lines=Web+Developer;Frontend+Learner;Passionate+Programmer+%26+Learner" />
-</p>
-
-<p align="center">
-  Passionate Learner focusing on modern web technologies.<br>
-  I love building clean, scalable, and responsive web projects.
+  Passionate about creating clean, user-friendly, and responsive web applications.<br>
+  Constantly learning new tools to improve my craft.
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-Hi, I'm **md jubayer**, a passionate **Web Developer**.  
-I enjoy building modern and interactive web applications, learning new technologies, and working on innovative projects.  
+</div>
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Technologies
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
 
-### 📊 GitHub Stats
-![Jubayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jubayerislamxubo&show_icons=true&theme=radial)
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jubayerislamxubo&show_icons=true&theme=dark&hide_border=true" alt="Jubayer's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerislamxubo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- 📧 **Email:** [Your Email Address]
+- 🌐 **Portfolio:** [Your Portfolio Link]
+- 💼 **LinkedIn:** [Your LinkedIn Link]
