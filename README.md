@@ -33,6 +33,6 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 **Email:** [Your Email Address]
-- 🌐 **Portfolio:** [Your Portfolio Link]
-- 💼 **LinkedIn:** [Your LinkedIn Link]
+- 📧 **Email:** [mdjubayerislamjubo60@gmail.com]
+- 🌐 **Portfolio:** [https://ecommerce-amar-shop-pearl.vercel.app/]
+- 💼 **LinkedIn:** [linkedin.com/in/md-jubayer-29157a3b5]
