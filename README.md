@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Md Jubayer
-### 💻 Web Developer | Frontend Enthusiast
+### 💻 Web Developer | MERN STACK DEVELOPER
 
 ---
 
